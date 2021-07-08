@@ -1,0 +1,1 @@
+POSTGRE_URI = 'postgresql://admin:admin@127.0.0.1:5432/web_01'
